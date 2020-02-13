@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a71e4d-7dc2-47a1-a8c0-8de86a044684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00-hello-world-in-console/base58.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-hello-world-in-console/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-hello-world-in-console/jsbn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-hello-world-in-console/jsbn2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/00-hello-world-in-console/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/00-hello-world-in-console/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/background.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/base58.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/icons/icon128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/icons/icon16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/icons/icon19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/icons/icon48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/jsbn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/jsbn2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-hello-world-in-console/manifest.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581580800712</updated>
-      <workItem from="1581580802790" duration="1484000" />
+      <workItem from="1581580802790" duration="1887000" />
     </task>
     <servers />
   </component>
